@@ -1,4 +1,4 @@
-# Magic-Bosses
+# Magic-ExtraMobs
 __*WIP*__ An example configuration for Magic plugin.
 
 ## How to install
